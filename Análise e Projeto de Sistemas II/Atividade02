@@ -1,0 +1,70 @@
+Revisão Análise e Projeto de Sistemas I 
+
+Atividades de Aprendizagem e Avaliação 
+
+Aluno: Paula Hang  RA: 2388022 
+
+Use esta cor no seu texto 
+
+
+Questões 
+
+Complete 
+
+O levantamento de requisitos objetiva os funções e restrições de um software. 
+
+Os stakeholders são pessoas responsáveis por observar e entender os hábitos de trabalho e realizar os levantamentos dos requisitos para o desenvolvimento do sistema. 
+
+O documento de requisitos estabelece todos os requisitos do software que deseja desenvolver.  
+
+O ESCOPO do sistema compreende  
+
+RF e RNF são abreviações para Requisitos funcionais e Requisitos não funcionais 
+
+Requisitos refletem o que um sistema deve fazer e quais serão as restrições que devem ser respeitadas.  
+
+Requisitos de usuário são escritos por usuários, em linguem natural, sem detalhes técnicos. Considerado requisitos de mais alto nível.   
+
+Requisitos de Sistema são os requisitos elaborados pelos próprios desenvolvedores, sendo mais precisos e utilizando linguagem técnica.  
+
+Cada requisito de usuário pode ser mapeado em um conjunto de requisitos de sistema. 
+
+Requisitos funcionais são as funcionalidades e serviços do sistema.  
+
+Requisitos não funcionais são as restrições ao funcionamento do sistema. 
+
+Requisitos funcionais descrevem o que se espera que o software faça, sem a . 
+
+A análise de requisitos se concentra em descobrir e entender os principais requisitos do sistema.  
+
+Operações CRUD devem ser registradas em ..... requisito funcional. 
+
+ 
+
+Considerando o vídeo no link “Requisito Funcional x Não Funcional”, complete 
+
+Armazenar e trafegar dados criptografados é um requisito não funcional. 
+
+Realizar o cadastro de clientes é um requisito funcional. 
+
+Teste de carga está relacionado com requisitos não funcionais 
+
+   
+
+Considerando o vídeo no link “Regras de Negócio”, complete 
+
+Uma regra de negócio é um requisito de domínio. 
+
+Requisitos funcionais podem possuir restrições definidas por regra de negócio. 
+
+RN é abreviatura de regra de negócio. 
+
+Cada caso de uso deve referenciar pelo menos um RF. 
+
+Todo requisito funcional deve estar referenciado em pelo menos um caso de uso.  
+
+ 
+
+ 
+
+ 
